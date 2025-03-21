@@ -1,0 +1,6 @@
+@EfCoreTask4_CRUD_HostAddress = http://localhost:5280
+
+GET {{EfCoreTask4_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

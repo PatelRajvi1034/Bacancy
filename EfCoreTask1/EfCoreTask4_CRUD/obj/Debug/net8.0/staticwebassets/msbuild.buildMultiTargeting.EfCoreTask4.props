@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EfCoreTask4.props" />
+</Project>
